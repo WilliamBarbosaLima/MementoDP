@@ -1,0 +1,11 @@
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.csprojAssemblyReference.cache
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+Z:\GitLabVS\William\Projetos\VS\Memento\Memento\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
